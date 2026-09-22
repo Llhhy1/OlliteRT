@@ -9,4 +9,5 @@ OlliteRT bundles Google's [LiteRT LM](https://github.com/google-ai-edge/LiteRT-L
 |:---------|:--------------|
 | 0.9.0 – 0.9.5 | 0.10.0 |
 | 0.9.6 | 0.11.0 |
+| 0.9.7 | 0.16.1 |
 
